@@ -1,7 +1,9 @@
 🔐 Password Generator (Python)
+
 📌 Overview
 
 The Password Generator is a Python-based application designed to generate secure, customizable passwords with additional features for encryption, password strength analysis, and user-friendly interaction. It combines strong security measures with a polished GUI to create a practical tool for managing digital security needs.
+
 
 ✨ Features
 
@@ -17,6 +19,7 @@ The Password Generator is a Python-based application designed to generate secure
 
 ✅ Cross-Platform Support – Works seamlessly on Windows, macOS, and Linux.
 
+
 🛠️ Technologies Used
 
 Python 3.x
@@ -30,14 +33,17 @@ cryptography (for encryption & secure storage)
 os / json (for file handling & saving passwords)
 
 
+
 Install required dependencies:
 
 pip install -r requirements.txt
 
 
+
 Run the application:
 
 python main.py
+
 
 
 🎯 Future Improvements
